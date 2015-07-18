@@ -1,0 +1,6 @@
+database dbname=crud2local
+sql crud2local.sql
+
+crud
+crud2local
+
